@@ -37,9 +37,9 @@ here's my [portfolio website](https://mishals-portfolio.vercel.app) (i will fini
 
 ---
 
-##  Projects
+##  projects i've done
 
-### Walmart Sales Forecasting (ARIMA & SARIMAX)
+### [Walmart Sales Forecasting (ARIMA & SARIMAX)](https://github.com/mikko098/Walmart-Sales-Analysis)
 Time series forecasting for Walmart store sales using advanced statistical modeling.  
 → *Python, statsmodels, seaborn, sklearn*
 
