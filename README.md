@@ -35,24 +35,6 @@ here's my [portfolio website](https://mishals-portfolio.vercel.app) (i will fini
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
----
-
-##  projects i've done
-
-### [Walmart Sales Forecasting (ARIMA & SARIMAX)](https://github.com/mikko098/Walmart-Sales-Analysis)
-Time series forecasting for Walmart store sales using advanced statistical modeling.  
-→ *Python, statsmodels, seaborn, sklearn*
-
-### Telegram News Bot with Sentiment Analysis
-A real-time Telegram bot that scrapes news articles and classifies sentiment using NLP.  
-→ *Python, BeautifulSoup, NLTK, telegram-bot*
-
-### Wordle Strategy Analysis and Solver
-Simulates thousands of Wordle games to find optimal strategies using entropy and probability.  
-→ *Python, pandas, numpy*
-
----
-
 ## 📫 Get in Touch
 
 - [Email](mailto:mishalmann@gmail.com)
