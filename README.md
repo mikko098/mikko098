@@ -35,7 +35,7 @@ here's my [portfolio website](https://mishals-portfolio.vercel.app) (i will fini
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
-## 📫 Get in Touch
+## Contact
 
 - [Email](mailto:mishalmann@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/mishal-nair-961843266/)
