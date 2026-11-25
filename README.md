@@ -1,7 +1,5 @@
 hello i'm mishal
 
-here's my [portfolio website](https://mishals-portfolio.vercel.app) (at present its just a glorified linktree + DOES NOT WORK AT ALL ON MOBILE)
-
 ## 🛠️ Tech Stack
 
 ### Programming Languages
